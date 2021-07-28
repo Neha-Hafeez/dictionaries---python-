@@ -1,0 +1,8 @@
+thisdict={
+    0:10,
+    1:20
+}
+print('output = ',thisdict)
+thisdict[2]=30
+print('expected output = ',thisdict)
+
